@@ -1,4 +1,4 @@
-This project was created as part of the tutorial.
+This project was created as part of the tutorial: [Next.js and Bunny CDN: Complete Guide to Image Uploading with Server Actions](https://50bytesjournal.hashnode.dev/nextjs-and-bunny-cdn-complete-guide-to-image-uploading-with-server-actions)
 
 ## Getting Started
 
